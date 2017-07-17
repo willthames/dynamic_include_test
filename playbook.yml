@@ -1,0 +1,6 @@
+- hosts: localhost
+  vars:
+    action: create
+
+  roles:
+    - include
